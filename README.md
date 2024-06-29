@@ -120,7 +120,7 @@ Step 8: Navigate to Local Disk (C:) and create a new folder named "PHP."
 <br />
 <p>
 <p align="center"> 
-<img width="432" alt="Step 9" src="https://github.com/MalikS-Github/osticket-prereqs/assets/173410266/c6132ce8-e946-4f9b-bb51-b34066905191">
+<img width="551" alt="Step 9 GitHub" src="https://github.com/MalikS-Github/osticket-prereqs/assets/173410266/b5fcadff-191b-441d-9f41-5a1cc141e575">
 </p>
 <p>
 Step 9: Download <a href="https://windows.php.net/download">PHP:</a> Hypertext Preprocessor. 
