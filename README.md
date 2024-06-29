@@ -185,6 +185,7 @@ Step 14: Launch Internet Information Services as an administrator and navigate t
 </p>
 <p align="center"> 
 <p>
+<p align="center">
 <img width="485" alt="Step 13 Pt  3" src="https://github.com/MalikS-Github/osticket-prereqs/assets/173410266/9f0f3cd7-dac6-4d81-af14-4ebfecca99d1">
 
 Step 15: Click on "Register new PHP version" and locate the "php-cgi" file in the PHP folder that was created in the Local Disk (C:).
