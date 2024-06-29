@@ -205,6 +205,7 @@ Step 16: Download and extract the latest version of <a href="https://osticket.co
 </p>
 <p>
 <img width="555" alt="Step 15" src="https://github.com/MalikS-Github/osticket-prereqs/assets/173410266/1128503b-3aec-4c2a-9b2a-18faf5591aad">
+
 Step 17: Open the "osTicket" folder and move the "upload folder" to the "wwwroot" folder in the "inetpub" folder of the Local Disk (C:).
 </p>
 <br />
